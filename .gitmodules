@@ -1,0 +1,6 @@
+[submodule "agent-harness"]
+	path = agent-harness
+	url = git@github.com:yacosta738/agent-harness.git
+[submodule "codegauge"]
+	path = codegauge
+	url = git@github.com:yacosta738/codegauge.git
