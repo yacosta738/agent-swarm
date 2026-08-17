@@ -1,5 +1,5 @@
 change: deterministic-quality-runners-fsm
 current_phase: qa
-completed: [explore, propose, spec, design, tasks, apply, verify, qa]
+completed: [explore, propose, spec, design, tasks, apply, verify]
 next: qa
-updated: 2026-08-09
+updated: 2026-08-16
