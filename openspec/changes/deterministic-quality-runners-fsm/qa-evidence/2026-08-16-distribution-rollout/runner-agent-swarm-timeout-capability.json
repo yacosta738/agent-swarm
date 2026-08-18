@@ -1,0 +1,62 @@
+{
+  "version": "quality-runner-result/v1",
+  "runner": "sdd-quality-runner",
+  "project": "/Users/acosta/Dev/agent-swarm",
+  "results": [
+    {
+      "version": "quality-runner-result/v1",
+      "run_id": "1787038965526-26349-2641f2",
+      "capability": {
+        "id": "runner",
+        "required": false,
+        "blocking": false
+      },
+      "config": {
+        "path": "openspec/quality-runner.json",
+        "digest": "df54b6f4612cf1925f644513b86cc2093bc987af999d05d64d98e6ee0c404ad1"
+      },
+      "command": {
+        "argv": [],
+        "shell": false,
+        "cwd": "."
+      },
+      "execution": {
+        "exit_code": null,
+        "signal": null,
+        "duration_ms": 0,
+        "timed_out": false,
+        "output_truncated": false
+      },
+      "result": {
+        "status": "NOT_TESTED",
+        "reason": "runner_disabled"
+      },
+      "parser": {
+        "type": "none",
+        "accepted": false,
+        "value": null
+      },
+      "evidence": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "artifacts": [],
+      "environment": {
+        "platform": "darwin",
+        "arch": "arm64",
+        "node": "v24.19.0"
+      },
+      "files": {
+        "json": "artifacts/runs/1787038965526-26349-2641f2/runner.json",
+        "human": "artifacts/runs/1787038965526-26349-2641f2/runner.md"
+      }
+    }
+  ],
+  "summary": {
+    "pass": 0,
+    "fail": 0,
+    "blocked": 0,
+    "unavailable": 0,
+    "not_tested": 1
+  }
+}
