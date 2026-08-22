@@ -1,0 +1,5 @@
+change: deterministic-quality-runners-fsm
+current_phase: archive
+completed: [explore, propose, spec, design, tasks, apply, verify, qa, archive]
+next: archive
+updated: 2026-08-22

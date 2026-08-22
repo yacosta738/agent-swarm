@@ -1,0 +1,48 @@
+{
+  "version": "quality-runner-result/v1",
+  "run_id": "1787303417938-86213-c3e452",
+  "capability": {
+    "id": "runner",
+    "required": false,
+    "blocking": false
+  },
+  "config": {
+    "path": "openspec/quality-runner.json",
+    "digest": "df54b6f4612cf1925f644513b86cc2093bc987af999d05d64d98e6ee0c404ad1"
+  },
+  "command": {
+    "argv": [],
+    "shell": false,
+    "cwd": "."
+  },
+  "execution": {
+    "exit_code": null,
+    "signal": null,
+    "duration_ms": 0,
+    "timed_out": false,
+    "output_truncated": false
+  },
+  "result": {
+    "status": "NOT_TESTED",
+    "reason": "runner_disabled"
+  },
+  "parser": {
+    "type": "none",
+    "accepted": false,
+    "value": null
+  },
+  "evidence": {
+    "stdout": "",
+    "stderr": ""
+  },
+  "artifacts": [],
+  "environment": {
+    "platform": "darwin",
+    "arch": "arm64",
+    "node": "v24.19.0"
+  },
+  "files": {
+    "json": "artifacts/runs/1787303417938-86213-c3e452/runner.json",
+    "human": "artifacts/runs/1787303417938-86213-c3e452/runner.md"
+  }
+}
